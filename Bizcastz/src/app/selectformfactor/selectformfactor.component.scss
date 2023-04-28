@@ -1,0 +1,39 @@
+.chart{
+    margin-left: 2em!important;
+    margin-right: 4em!important;
+    border-bottom: 1px dotted lightgray;
+}
+
+label {
+    display: contents;
+    font: 2em;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
+    margin-right: 20px;
+}
+
+button {
+    background-image: linear-gradient(to top, gray, white)!important;
+    border-radius: 5px;
+    border: 1px solid lightgray!important;
+    width: 2.5em;
+}
+
+.ddrefresh {
+    margin-top:0.4em;
+    margin-bottom: 0.4em;
+    flex-direction: row;
+    flex-grow: 1;
+    column-gap: 0.2em;
+}
+
+input {
+    height: 2.3em;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    padding: 0.8em;
+}
+

@@ -1,0 +1,44 @@
+label {
+    display: contents;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+p{
+  display: contents;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
+    margin-right: 20px;
+}
+button
+{
+  margin-right: 20px;
+}
+
+
+.refresh {
+  display: inline-block;
+}
+
+#formfactor{
+    margin-left: 2em!important;
+    margin-right: 4em!important;
+    border-bottom: 1px dotted lightgray;
+    margin-top: 0em;
+}
+
+button {
+    background-image: linear-gradient(to top, gray, white)!important;
+    border-radius: 5px;
+    border: 1px solid lightgray!important;
+    width: 2.5em;
+}
+
+@media (max-width: 370px){
+    .ddrefresh {
+        display: flex!important;
+        flex-direction: column;
+        row-gap: 0.5em;
+    }
+}

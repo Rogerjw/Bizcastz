@@ -1,0 +1,21 @@
+ul, li {
+    margin-right: 0.2em;
+    flex-grow: 1;
+}
+
+.navbuttons {
+    background-image: linear-gradient(to top, lightgray, white);
+    flex-grow: 1;
+}
+
+button {
+    background-image: linear-gradient(to top, gray, white)!important;
+}
+
+img {
+    height: 8em;
+    width: 10em;
+}
+img:last-child{
+    height: 4em!important;
+}

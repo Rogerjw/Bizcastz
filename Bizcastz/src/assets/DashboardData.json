@@ -1,0 +1,47 @@
+{
+  "Dashboard": {
+    "SelectedFormFactor": {
+		"numberOfStores": "191",
+		"numberOfDevices": "2206",
+		"Clicks": "1406",
+		"priceAccuracy": "91.4%",
+		"ConnectedStores": "62%",
+		"ConnectedDevices": "82%"
+    },
+    "CurrentStoreCompliance": [
+		{
+		  "CloudCheck": "11",
+		  "CloudStrike": "0",
+		  "Systems": "11",
+		  "FPercentage": "100%",
+		  "StoreNumber": "0000",
+		  "Location": "00, Provisioning,",
+		  "SPercentage": "50%",
+		  "Sessions": "1",
+		  "Clicks": "0"
+    	},
+		{
+		  "CloudCheck": "2",
+		  "CloudStrike": "2",
+		  "Systems": "4",
+		  "FPercentage": "50%",
+		  "StoreNumber": "4101",
+		  "Location": "CH,Geneve,Rue de Rive 16,1204",
+		  "SPercentage": "75%",
+		  "Sessions": "0",
+		  "Clicks": "0"
+    	},
+		{
+		  "CloudCheck": "7",
+		  "CloudStrike": "18",
+		  "Systems": "25",
+		  "FPercentage": "28%",
+		  "StoreNumber": "3901",
+		  "Location": "FR,Aix-en-Provence,160 rue Giueseppe Vierdi",
+		  "SPercentage": "100%",
+		  "Sessions": "0",
+		  "Clicks": "0"
+    	}
+	]
+  }
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <g id="Technology" transform="translate(-1493 -1431)">
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="63" height="63" transform="translate(1493 1431)" fill="#b98d58"/>
+    <g id="Group_53" data-name="Group 53">
+      <path id="Icon_awesome-laptop" data-name="Icon awesome-laptop" d="M28.96,19.307H17.707a1.463,1.463,0,0,1-1.519,1.485H13.366a1.576,1.576,0,0,1-1.521-1.485H.743A.745.745,0,0,0,0,20.049v.743a2.979,2.979,0,0,0,2.97,2.97H26.732a2.979,2.979,0,0,0,2.97-2.97v-.743A.745.745,0,0,0,28.96,19.307ZM26.732,2.228A2.234,2.234,0,0,0,24.5,0H5.2A2.234,2.234,0,0,0,2.97,2.228V17.822H26.732Zm-2.97,12.624H5.941V2.97H23.762Z" transform="translate(1509.649 1450.619)" fill="#fff"/>
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="11" height="7" transform="translate(1519 1456)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

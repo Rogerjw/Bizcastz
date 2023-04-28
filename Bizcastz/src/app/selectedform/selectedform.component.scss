@@ -1,0 +1,35 @@
+.small-box {
+    border-right: 1px dotted black;
+    height: 100%;
+    padding-right: 2em!important;
+}
+.col-3 {
+    padding: 0!important;
+}
+
+.pmTop {
+    margin-top: 0!important;
+}
+
+.singlebox{
+    width: 25%;
+}
+
+.card {
+    border: 0 !important;
+    background: none!important;
+}
+
+@media (max-width: 765px){
+    .cards {
+        width: 100vh;
+    }
+}
+
+@media (max-height: 600px){
+    .cards {
+        width: 100vh;
+    }
+}
+
+

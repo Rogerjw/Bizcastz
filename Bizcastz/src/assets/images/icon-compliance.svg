@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <g id="Compliance" transform="translate(-1139 -1431)">
+    <rect id="Rectangle_21" data-name="Rectangle 21" width="63" height="63" transform="translate(1139 1431)" fill="#b98d58"/>
+    <g id="Group_48" data-name="Group 48">
+      <g id="noun-checklist-2571509" transform="translate(1024.544 1433.712)">
+        <path id="Path_63" data-name="Path 63" d="M155.994,51.042a1.544,1.544,0,0,0-1.549-1.549h-2.316v1.542a2.331,2.331,0,0,1-2.324,2.324h-7.747a2.331,2.331,0,0,1-2.324-2.324V49.493h-2.3a1.554,1.554,0,0,0-1.549,1.549V71.183a1.549,1.549,0,0,0,1.549,1.549h17.042a1.554,1.554,0,0,0,1.549-1.549Zm-6,9.846-4.648,4.648a.785.785,0,0,1-1.1,0l-2.324-2.324a.778.778,0,1,1,1.1-1.1l1.774,1.782,4.1-4.106a.778.778,0,0,1,1.1,1.1Z" transform="translate(0 -31.546)" fill="#fff"/>
+        <path id="Path_64" data-name="Path 64" d="M259.978,17.165v2.324a.777.777,0,0,1-.775.775h-7.747a.777.777,0,0,1-.775-.775V17.165a.777.777,0,0,1,.775-.775H259.2A.777.777,0,0,1,259.978,17.165Z" transform="translate(-109.399)" fill="#fff"/>
+        <path id="Path_65" data-name="Path 65" d="M259.978,17.165v2.324a.777.777,0,0,1-.775.775h-7.747a.777.777,0,0,1-.775-.775V17.165a.777.777,0,0,1,.775-.775H259.2A.777.777,0,0,1,259.978,17.165Z" transform="translate(-109.399)" fill="#fff"/>
+      </g>
+      <path id="Path_66" data-name="Path 66" d="M1166.121,1465.082l3.26,3.027,5.5-5.682" transform="translate(0 -1)" fill="none" stroke="#b98d58" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
