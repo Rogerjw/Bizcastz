@@ -43,5 +43,19 @@
 		  "Clicks": "0"
     	}
 	]
-  }
+  },
+  "Login": [  
+		{    
+			"username": "roger",    
+			"password": "rogermuhire"
+		},  
+		{    
+			"username": "jean",    
+			"password": "jean"  
+		},  
+		{    
+			"username": "Karthik",    
+			"password": "Karthik"
+		}
+	]
 }
